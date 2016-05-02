@@ -11,7 +11,7 @@ setup(
     name='django-searchlist-views',
     version='0.1',
     packages=[
-        ‘searchlist_views'],
+        'searchlist_views'],
     include_package_data=True,
     license='BSD License',  # example license
     description='A simple Django app to conduct Web-based polls.',
